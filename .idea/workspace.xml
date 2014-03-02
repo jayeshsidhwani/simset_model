@@ -57,6 +57,7 @@
       <list>
         <option value="$PROJECT_DIR$/model.py" />
         <option value="$PROJECT_DIR$/model_builder.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -340,6 +341,13 @@
           <folding>
             <element signature="e#0#38#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="749">
+          <folding />
         </state>
       </provider>
     </entry>
